@@ -35,7 +35,7 @@ This project focuses on predicting house prices using advanced machine learning 
 
 ## 📁 Dataset
 
-* File: `housing_data.csv`
+* File: `NY-House-Dataset.csv`
 * Contains features like location, area, number of rooms, price
 
 ## ▶️ How to Run
@@ -45,5 +45,5 @@ This project focuses on predicting house prices using advanced machine learning 
 3. Run all cells
 
 ## 📊 Visualizations
+<Figure size 1000x600 with 1 Axes><img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/7fbf4fd6-147d-4dcb-a0a2-2e72862d23fd" />
 
-(Add screenshots here)
